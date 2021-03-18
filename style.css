@@ -4,10 +4,21 @@
     padding: 0;
 }
 
-body{
-    width: 80%;
+.contenitore{
+    width: 90%;
     margin: auto;
 }
+
+header{
+    height: 20%;
+}
+
+main{
+
+    height: 70%;
+
+}
+
 
 #set_logo{
     width: 150px;
@@ -29,20 +40,20 @@ main{
 
 .blocco_immagine{
    
-    height:300px;
+    height:40%;
     background-color: chartreuse;
        
 }
 
 .leadership{
-    height: 60px;
+    height: 10%;
 
     background-color:blueviolet;
 }
 
 .center_container{
   
-    height: 600px;
+    height: 50%;
     background-color: cyan;
 }
 
@@ -75,7 +86,7 @@ main{
 }
 
 footer{
-    height: 50px;
-    width: 780px;
-    background-color: black;
+    height: 10%;
+    
+    background-color:chartreuse;
 }
