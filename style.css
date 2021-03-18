@@ -74,3 +74,8 @@ main{
     height: 100%;
 }
 
+footer{
+    height: 50px;
+    width: 780px;
+    background-color: black;
+}
